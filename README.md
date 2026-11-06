@@ -15,18 +15,16 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/stevenpersia/kinglet-releases/releases/latest"><img alt="Latest release" src="https://img.shields.io/github/v/release/stevenpersia/kinglet-releases?style=flat-square&label=release&color=ededef&labelColor=0a0a0b"></a>
+  <a href="https://getkinglet.com/#waitlist"><img alt="Coming soon" src="https://img.shields.io/badge/status-coming%20soon-ededef?style=flat-square&labelColor=0a0a0b"></a>
   <img alt="Linux" src="https://img.shields.io/badge/linux-AppImage%20%C2%B7%20pacman-7dd3a8?style=flat-square&labelColor=0a0a0b">
   <img alt="Claude Code" src="https://img.shields.io/badge/Claude%20Code-MCP%20inside-d97757?style=flat-square&labelColor=0a0a0b">
   <a href="https://getkinglet.com/#pricing"><img alt="Price" src="https://img.shields.io/badge/price-%E2%82%AC49%20once-e6c07b?style=flat-square&labelColor=0a0a0b"></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/stevenpersia/kinglet-releases/releases/latest"><b>Download</b></a> ·
+  <a href="https://getkinglet.com/#waitlist"><b>Join the launch list</b></a> ·
   <a href="https://getkinglet.com"><b>Website</b></a> ·
-  <a href="#install">Install</a> ·
-  <a href="#claude-code-mcp">Claude Code</a> ·
-  <a href="https://github.com/stevenpersia/kinglet-releases/releases">Changelog</a>
+  <a href="#claude-code-mcp">Claude Code</a>
 </p>
 
 <br>
@@ -99,37 +97,19 @@ claude mcp add --scope user kinglet -- kinglet --mcp --ozone-platform=headless
 
 `/mcp__kinglet__fix_share` · `/mcp__kinglet__fix_checks` · `/mcp__kinglet__fix_console` · `/mcp__kinglet__fix_site` · `/mcp__kinglet__fix_accessibility`
 
-## Install
+## Coming soon
 
-Download the latest version from **[Releases](https://github.com/stevenpersia/kinglet-releases/releases/latest)**.
+Kinglet isn’t available yet. Leave your email on **[getkinglet.com](https://getkinglet.com/#waitlist)**: you’ll get one email at launch, with a discount for everyone on the list.
 
-**Arch, CachyOS (pacman)**
-
-```bash
-sudo pacman -U Kinglet-*.pacman
-```
-
-**Any distribution (AppImage)**
-
-```bash
-chmod +x Kinglet-*.AppImage
-```
-
-```bash
-./Kinglet-*.AppImage
-```
-
-Kinglet runs on Wayland natively. It finds a dev server already running (ports 3000, 5173, 4321, 8080…) or takes any address.
-
-**Updates** are automatic: the app checks at startup and every 6 hours, downloads in the background, verifies the file (SHA-512) and installs only when you click **Install and restart**.
+It will ship for Linux (AppImage for any distribution, pacman package for Arch and CachyOS), with automatic updates.
 
 ## Pricing
 
-**€49, once.** No subscription, no account, no seat to manage. One license, every feature. → [getkinglet.com](https://getkinglet.com/#pricing)
+**€49, once.** No subscription, no account, no seat to manage. One license, every feature. Launch discount for the list → [getkinglet.com](https://getkinglet.com/#waitlist)
 
 ## About this repository
 
-The source code is private. This repository holds the public releases (AppImage, pacman package and `latest-linux.yml`, which the app reads to update itself).
+The source code is private. From launch, this repository will hold the public releases (AppImage, pacman package and `latest-linux.yml`, which the app reads to update itself).
 
 <br>
 
