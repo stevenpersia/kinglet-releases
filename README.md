@@ -18,7 +18,7 @@
   <a href="https://getkinglet.com/#waitlist"><img alt="Coming soon" src="https://img.shields.io/badge/status-coming%20soon-ededef?style=flat-square&labelColor=0a0a0b"></a>
   <img alt="Linux" src="https://img.shields.io/badge/linux-AppImage%20%C2%B7%20pacman-7dd3a8?style=flat-square&labelColor=0a0a0b">
   <img alt="Claude Code" src="https://img.shields.io/badge/Claude%20Code-MCP%20inside-d97757?style=flat-square&labelColor=0a0a0b">
-  <a href="https://getkinglet.com/#pricing"><img alt="Price" src="https://img.shields.io/badge/price-%E2%82%AC49%20once-e6c07b?style=flat-square&labelColor=0a0a0b"></a>
+  <a href="https://getkinglet.com/#pricing"><img alt="Price" src="https://img.shields.io/badge/price-%2449%20once-e6c07b?style=flat-square&labelColor=0a0a0b"></a>
 </p>
 
 <p align="center">
@@ -105,7 +105,7 @@ It will ship for Linux (AppImage for any distribution, pacman package for Arch a
 
 ## Pricing
 
-**€49, once.** No subscription, no account, no seat to manage. One license, every feature. Launch discount for the list → [getkinglet.com](https://getkinglet.com/#waitlist)
+**$49, once.** No subscription, no account, no seat to manage. One license, every feature. Launch discount for the list → [getkinglet.com](https://getkinglet.com/#waitlist)
 
 ## About this repository
 
